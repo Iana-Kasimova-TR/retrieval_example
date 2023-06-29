@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+transformers
+pandas
+openai
+streamlit
+scikit-learn==1.2.2
+nltk
+torch==1.13.1+cpu
+moviepy
